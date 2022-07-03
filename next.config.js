@@ -9,7 +9,8 @@ module.exports = {
       'layouts',
       'lib',
       'pages'
-    ]
+    ],
+    ignoreDuringBuilds: true
   },
   async headers () {
     return [
