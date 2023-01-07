@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'dangen-effy/nobelium'
+      repo: 'dangen-effy/blog'
     },
     cusdisConfig: {
       appId: '', // data-app-id
